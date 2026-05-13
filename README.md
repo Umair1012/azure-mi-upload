@@ -79,7 +79,7 @@ npm install express @azure/identity @azure/storage-blob multer
 
 # Step 6: Create Application
 
-Create application file:
+Create application file if not exist:
 
 ```bash
 vi app.js
