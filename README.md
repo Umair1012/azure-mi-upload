@@ -53,7 +53,7 @@ npm -v
 # Step 3: Create Application Directory
 
 ```bash
-mkdir blob-app
+clone the repo if not clone yet
 cd blob-app
 ```
 
